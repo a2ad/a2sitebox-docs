@@ -1,7 +1,7 @@
 Módulo de Tags
 ==============
 
-Esse módulo tem como objetivo possibilitar ao usuário a inserir de tags para posterior relacionar dentro do módulo de postagens.
+Esse módulo tem como objetivo possibilitar ao usuário a inserir tags para posterior relacionar dentro do módulo de postagens.
 
 **Funcionalidades**
 
