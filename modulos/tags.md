@@ -7,7 +7,7 @@ Esse módulo tem como objetivo possibilitar ao usuário a inserir de tags para p
 
 * Inclusão de tags
 * Edição de tags
-* Edição de tags
+* Exclusão de tags
 
 **Estrutura do módulo**
 
