@@ -47,3 +47,10 @@ TagsBundle/
            
         
 ```
+
+**Diagrama de classe**
+
+O diagrama abaixo representa a classe Tags.php
+
+![Tags Class Diagram](https://github.com/a2comunicacao/a2sitebox-docs/blob/2.0/modulos/diagramas/tags.png "Tags Class Diagram")
+
