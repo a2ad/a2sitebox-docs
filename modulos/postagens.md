@@ -1,7 +1,7 @@
 Módulo de Postagens
 ===================
 
-Esse módulo tem como objetivo possibilitar ao usuário a criação de postagens, integrando com os módulos de Mídias/Albuns, Categorias, Tags e a possibilidade de relacionar uma Postagem.
+Esse módulo tem como objetivo possibilitar ao usuário a criação de postagens, integrando com os módulos de Mídias, Albuns, Categorias, Tags e a possibilidade de relacionar uma Postagem.
 
 **Funcionalidades**
 
