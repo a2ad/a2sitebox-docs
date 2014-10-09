@@ -1,7 +1,7 @@
-Módulo de Midias
+Módulo de Mídias
 ==============
 
-Esse módulo tem como objetivo possibilitar ao usuário a inserir midias para posterior relacionar dentro do módulo de postagens.
+Esse módulo tem como objetivo possibilitar ao usuário a inserir mídias para posterior relacionar dentro do módulo de postagens.
 
 **Funcionalidades**
 
